@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EDI-RyanPannell", "EDI-RyanPannell.csproj", "{90A2C68B-D64A-420E-9FD3-2418AEFC9091}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90A2C68B-D64A-420E-9FD3-2418AEFC9091}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90A2C68B-D64A-420E-9FD3-2418AEFC9091}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90A2C68B-D64A-420E-9FD3-2418AEFC9091}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90A2C68B-D64A-420E-9FD3-2418AEFC9091}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3BC7131A-0E06-478D-92C6-DA3F38BAD207}
+	EndGlobalSection
+EndGlobal
