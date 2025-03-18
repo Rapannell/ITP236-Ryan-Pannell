@@ -101,7 +101,7 @@ namespace Project2
         }
         static void GetData()
         {
-            XDocument xmlDoc = XDocument.Load("../../Project2.xml");
+            XDocument xmlDoc = XDocument.Load("../../../Project2.xml");
             customers = GetCustomers(xmlDoc);
             parts = GetParts(xmlDoc);
             salesOrders = GetSalesOrders(xmlDoc);
